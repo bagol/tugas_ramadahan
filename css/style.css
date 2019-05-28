@@ -1,0 +1,13 @@
+.container {
+    box-shadow: 2px 3px 10px;
+    background: #fff;
+}
+.kotak  {
+    min-height: 600px;
+}
+body    {
+    background-repeat: no-repeat;
+    background-image:linear-gradient(to right bottom, #608dc9,#b8d0f0,white) ;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
